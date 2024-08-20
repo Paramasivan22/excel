@@ -147,7 +147,7 @@
             <div class="nav-item">
                 <a href="{{ route('import_excel_post') }}">
                     <i class="fas fa-file-upload"></i>
-                    <div>Upload Users</div>
+                    <div>Upload User</div>
                 </a>
             </div>
             <div class="nav-item">
